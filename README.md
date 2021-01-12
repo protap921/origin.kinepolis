@@ -1,0 +1,2 @@
+# origin.kinepolis
+subdomine teakover
